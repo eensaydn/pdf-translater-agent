@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-groq
+langchain-core
+langchain-community
+PyPDF2
+fpdf
+gradio
+python-dotenv
